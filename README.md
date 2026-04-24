@@ -2,6 +2,7 @@
 
 A comprehensive end-to-end CI/CD infrastructure for containerized applications, featuring AWS infrastructure provisioning, automated configuration management, continuous integration, and GitOps-based deployment to Kubernetes.
 
+
 ## Project Archticture 
 
 ![alt text](<file-Page-5.drawio (1).svg>)
